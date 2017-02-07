@@ -6,6 +6,7 @@
         "magento/theme-frontend-luma": "*",
         "magento/framework": "100.1.*"
     },
+    "homepage": "https://github.com/SilentImp/demo-m2-theme/",
     "type": "magento2-theme",
     "version": "100.1.2",
     "license": [
