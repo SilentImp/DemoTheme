@@ -8,7 +8,7 @@
     },
     "homepage": "https://github.com/SilentImp/demo-m2-theme/",
     "type": "magento2-theme",
-    "version": "100.0.0",
+    "version": "1.0",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
